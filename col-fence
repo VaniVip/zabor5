@@ -1,0 +1,979 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Заборы с кирпичными столбами</title>
+<meta name="description" content="">
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<script src="/zaboroff-spb/js/jquery-1.9.1.min.js"></script>
+<link href="/zaboroff-spb/css/style-new.css" rel="stylesheet" type="text/css">
+<!-- fancybox new version -->
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+
+<link  href="/zaboroff/js/fancybox-master/dist/jquery.fancybox.min.css" rel="stylesheet">
+<script src="/zaboroff/js/fancybox-master/dist/jquery.fancybox.min.js"></script>
+<!-- The end -->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(64723078, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/64723078" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --></head>
+<body>
+	<header>
+    
+
+
+<div class="action-modal-call">
+    <div class="action-text-holder"><a href="/tovar" style="
+    text-decoration: none;
+">Любые комплектующие для забора Вы можете приобрести <span style="
+    color: #cc0600 !important;
+">отдельно</span> во вкладке <span style="
+    color: #cc0600 !important;
+    ">"Всё для забора"</span></a></div>
+</div>
+
+
+<div class='choose-city-mobile'>
+    <div class='current-city'>Наш город: <span class='city'>Санкт-Петербург</span><span class='city-arrow'>&#9660;</span></div>
+    <div class='all-citys'>
+        <div class='active' data-prefix='7812' data-scene='3' data-phone='+7 (812) 123-45-67' data-city='Санкт-Петербург'><span>Санкт-Петербург</span></div>
+<div class='hidden roi-phones'>
+    <span data-prefix='7812' class='roistat-msk'>+7 (812) 123-45-67</span>
+</div>
+    </div>
+</div>
+    <div class='wrapper' style="position:relative;">
+        <div class='logo'>
+                <a href="/"><img src='/zaboroff-spb/img/logo-new.png' alt='Заборофф-Икеа' /></a>
+            </div>
+<button class='menu-btn'></button>
+<button class='phone-btn'></button>
+<div class='mobile-menu'>
+<div class='close-mobile-menu'></div>
+<ul>
+    <li><a href="/tovar">Всё для забора</a></li>
+    <li class='has-sub-menu'><span>Услуги</span>
+<div class='sub-top-menu'>
+        <div class='close-mobile-sub-menu'></div>
+		<ul>
+<li><a href=/profnastil>Заборы из профнастила</a></li>
+<li><a href=/shtaketnik>Забор из евроштакетника</a></li>
+<li><a href=/section>Секционные заборы 3D</a></li>
+<li><a href=/zabor>Заборы из сварных секций</a></li>
+<li><a href=/rabitsa>Заборы из сетки-рабицы</a></li>
+<li><a href=/col-fence>Заборы с кирпичными столбами</a></li>
+<li><a href=/base-fence>Заборы на ленточном фундаменте</a></li>
+<li><a href=/gates>Установка ворот и калиток</a></li>
+<li><a href=/cherez-kanavu>Обустройство въезда через канаву</a></li>
+<li><a href=/parking>Парковочные площадки</a></li>
+<li><a href=/naves>Навесы для автомобиля</a></li>
+<li><a href=/security>Колючая проволока</a></li>
+		</ul>
+</div>
+    <li><a href='/action'>Акции</a></li>
+    <li><a href='/gallery'>Фото</a></li>
+    <li><a href='/videoreview'>Видеоотзывы</a></li>
+    <li><a href='/contact'>Контакты</a></li>
+</ul>
+</div><div class="head-block">
+    <div class="shedule">
+        График работы:<br />
+        с 8:00 до 22:00
+    </div>
+    <div class="attention">
+        Заявки на заборы принимаются ежедневно с 8.00 до 22.00
+    </div>
+    <div class="head-socials social-groups">
+        <a class="fb-group" rel="nofollow" href="#"></a>
+        <a class="vk-group" rel="nofollow" href="#"></a>
+        <a class="insta" rel="nofollow" href="#"></a>
+    </div>
+</div><div class='phone-top'>
+
+
+
+<span class='phone roistat-spb' data-prefix='7812'>+7 (812) 123-45-67</span>
+
+</div>    </div>
+    <div class="top-menu-holder">
+        <div class="wrapper">
+            <ul class='top-menu clearfix'>
+    <li class="logo-menu">
+    <a href="/"><img src='/spb/img/logo-new.png' alt='Заборофф-Икеа' /></a>
+    </li>
+    <li><a href='/tovar'>Всё для забора</a></li>
+    <li class='has-sub-menu'><span>Услуги</span>
+        <ul class='sub-top-menu'>
+
+<li><a href=/profnastil>Заборы из профнастила</a></li>
+<li><a href=/shtaketnik>Забор из евроштакетника</a></li>
+<li><a href=/section>Секционные заборы 3D</a></li>
+<li><a href=/zabor>Заборы из сварных секций</a></li>
+<li><a href=/rabitsa>Заборы из сетки-рабицы</a></li>
+<li><a href=/col-fence>Заборы с кирпичными столбами</a></li>
+<li><a href=/base-fence>Заборы на ленточном фундаменте</a></li>
+<li><a href=/gates>Установка ворот и калиток</a></li>
+<li><a href=/cherez-kanavu>Обустройство въезда через канаву</a></li>
+<li><a href=/parking>Парковочные площадки</a></li>
+<li><a href=/naves>Навесы для автомобиля</a></li>
+<li><a href=/security>Колючая проволока</a></li>
+</ul>
+    <li><a href='/action'>Акции</a></li>
+    <li><a href='/gallery'>Фото</a></li>
+    <li><a href='/videoreview'>Видеоотзывы</a></li>
+    <li><a href='/contact'>Контакты</a></li>
+    <li class="phone-holder"><span class='phone roistat-spb' data-prefix='7812'>+7 (812) 123-45-67</span></li>
+</ul>
+    <a href="/calculator" class="call-calc">Калькулятор</a>
+        </div>
+    </div>
+    <div class="top-menu-holder-after" style="display:none;height:72px;"></div>
+</header>
+
+<script src="/zaboroff/js/jquery-1.9.1.min.js"></script>
+<script src="/zaboroff/js/jquery.plugin.js"></script>
+<script src="/zaboroff/js/jquery.countdown.js"></script>
+<style>
+#main-block{height:600px;position:relative;}
+.text-block-holder{width:60%;height:100%;position:relative;overflow:hidden;z-index: 11;}
+.bg-holder{width:150%;height:150%;background:rgba(255,255,255,0.2);position:absolute;right:0;top:0;transform:rotate(20deg);transform-origin:top right;z-index:1;}
+.text-block{position:relative;z-index:2;padding:15% 90px 0 90px;text-align:left;color:#fff;}
+.text-block h1 span{display:block;margin-top:5px;font-size:38px;font-weight:500;line-height:45px;}
+.text-block .sub-title{margin-top: 5px;font-size: 38px;line-height: 45px;text-transform:uppercase;max-width: 570px;}
+.text-block ul li{list-style:none;padding:5px 0;}
+.text-block ul li .fa{margin-right:15px;color:#fff;background:#22840c;border-radius:14px;}
+.text-block ul li .fa:before{position:relative;left:2px;}
+.text-block .button-block{display:inline-block;margin:10px 0 0 0;padding:15px 35px;font:600 30px/34px Roboto, sans-serif;border:2px solid #fff;border-radius:14px;text-transform:uppercase;}
+#callback-big{display:none;}
+@media only screen and (max-width: 768px) {
+    .text-block-holder{width:100%;}
+    .text-block{padding: 120px 10px 0 10px;}
+    .text-block h1{font-size:32px;}
+    .text-block h1 span{font-size:24px;line-height:28px;}
+    .text-block .sub-title{font:400 20px/24px Roboto, sans-serif;}
+}
+.head-right{width:420px;position:absolute;top:109px;right:200px;background:#e0e0e0;padding:40px;text-align:center;box-shadow:0 0 60px #000;z-index:100;}
+.head-right .title{font:700 32px/34px Roboto;text-transform: uppercase;color: #0d4861;margin: 0 0 15px 0;}
+.head-right .sub-title{font:400 22px/24px Roboto;text-transform:uppercase;color:#000;margin: 0 0 15px 0;}
+.head-right .button{position:relative;border:none;width:308px;height:40px;padding:0px 10px 0 35px;margin:30px auto 0;font-weight:500;text-align:center;background:#22840c;color:#fff;cursor:pointer;line-height:40px;text-transform:uppercase;}
+.head-right .button:hover{background: #0c8a12;}
+.head-right .button .fa{position:absolute;left:5px;top:5px;width:26px;height:30px;background:url(/landing/images/calculator-2.png) no-repeat left top;background-size:cover;}
+	#CountdownHead .countdown-bl {
+		width: 298px;
+		margin: 0 auto;
+	}
+    #CountdownHead .counter-title {
+    font: 400 16px Roboto;
+    }
+	#CountdownHead {
+		padding: 0px 0px 0px 0px; 
+		text-align: center; 
+		letter-spacing: 0px;
+		font-size: 38px; 
+		font-weight: 700;
+		margin: 10px auto 0;
+		height: 61px;
+		position: relative;
+		color: #0d4861 !important;
+	}
+
+	#CountdownHead div {
+		position: absolute; 
+		top: 0px;
+		width: 58px; 
+		height: 58px;
+		text-align: center;
+		padding: 18px 0px 0px 2px;
+		background: url(/zaboroff/images/bg-timer.png) top center no-repeat;
+        
+
+	}
+
+	#CountdownHead .shadow-white {
+		top: 7px;
+		left: 0px;
+		background: url(/zaboroff/images/shadow-white.png) top center no-repeat;
+		padding: 0;
+		z-index: 500;
+	}
+
+	#CountdownHead .timer-days {left: 0px; }
+	#CountdownHead .timer-hours {left: 80px; }
+	#CountdownHead .timer-minutes {left: 160px; }
+	#CountdownHead .timer-sec {left: 238px; }
+    .countdown-bl {
+    width: 308px;
+    margin: 0 auto;
+}
+
+	/* jQuery Countdown styles 2.0.0. */
+	.is-countdown {
+		border: none;
+	}
+	.countdown-rtl {
+		direction: rtl;
+	}
+	.countdown-holding span {
+		color: #888;
+	}
+	.countdown-row {
+		clear: both;
+		width: 100%;
+		padding: 0px 2px;
+		text-align: center;
+	}
+	.countdown-show1 .countdown-section {width: 98%;}
+	.countdown-show2 .countdown-section {width: 48%;}
+	.countdown-show3 .countdown-section {width: 32.5%;}
+	.countdown-show4 .countdown-section {width: 24.5%;}
+	.countdown-show5 .countdown-section {width: 19.5%;}
+	.countdown-show6 .countdown-section {width: 16.25%;}
+	.countdown-show7 .countdown-section {width: 14%;}
+
+	.countdown-section {
+		display: block;
+		float: left;
+		font-size: 75%;
+		text-align: center;
+	}
+	.countdown-amount {
+		font-size: 200%;
+	}
+	.countdown-period {
+		display: block;
+	}
+	.countdown-descr {
+		display: block;
+		width: 100%;
+	}
+	.count-wrap {
+		position: relative;
+		margin: 10px auto 0;
+		color: #fff;
+		height: 12px;
+	}
+	.count-wrap span {
+		position: absolute;
+		top: -8px;
+		text-align: center;
+		width: 60px;
+		font-size: 14px;
+		font-weight: 400;
+        color: #0d4861;
+	}
+
+	.count-wrap .timer-days {left: 0px;}
+	.count-wrap .timer-hours {left: 80px;}
+	.count-wrap .timer-minutes {left: 160px;}
+	.count-wrap .timer-sec {left: 238px;}
+@media only screen and (max-width: 1024px) {
+.head-right{right:90px;}
+}
+@media only screen and (max-width: 768px) {
+#main-block{height:auto;}
+.head-right{width:98%;position:relative;top:0;right:0;margin:79px auto 0;padding: 40px 15px;}
+}
+</style>
+
+
+
+   <section id="main-block" class="col-fence" style="background:url(/netcat_files/254/col_fence.jpg) no-repeat center top;background-size:cover;">
+    <div class="overlay"></div>
+	<div class="text-block-holder">
+        <div class="bg-holder"></div>
+        <div class="text-block">
+            <h1>Установка заборов с кирпичными столбами</h1>
+            <div class="sub-title">
+                        </div>
+        </div>
+	</div>
+<div class="head-right">
+<div class="title">Успейте получить скидку 50% на доставку!</div>
+			<div class="counter-action">
+				<span class="counter-title">До конца акции:</span>
+				<div class="countdown-bl">
+					<div id="CountdownHead"></div>
+					<div class="count-wrap">
+						<span class="timer-days">дней</span>
+						<span class="timer-hours">часов</span>
+						<span class="timer-minutes">минут</span>
+						<span class="timer-sec">секунд</span>
+					</div>
+				</div>
+			</div>
+<script>
+var lastDay = new Date(2020, 05, 28);
+$('#CountdownHead').countdown({until: lastDay, layout: '<div class="timer-days"><div class="shadow-white"></div>{dnn}</div><div class="timer-hours"><div class="shadow-white"></div>{hnn}</div><div class="timer-minutes"><div class="shadow-white"></div>{mnn}</div><div class="timer-sec"><div class="shadow-white"></div>{snn}</div>'});
+</script>
+<div class="button modal-call call-roi"><i class="fa"></i>Получить скидку</div>
+</div>
+</section>
+        <section class="short-advantages">
+	<div class="wrap new-wrap">
+			<div class="adv-1">
+				<img src="/landing/images/advantages-1-white.png" alt="Собственное производство" />
+				<span class="adv-title">
+					Всего 5% гарантийных случаев и рекламаций за весь год.
+				</span>
+			</div>
+			<div class="adv-2">
+				<img src="/landing/images/advantages-6-white.png" alt="Гарантия качества" />
+				<span class="adv-title">
+					Ежедневно в наличии на складе 20 км готовых заборов.
+				</span>
+			</div>
+			<div class="adv-3">
+				<img src="/landing/images/advantages-3-white.png" alt="Бесплатный выезд менеджера" />
+				<span class="adv-title">
+					Твердая цена забора в договоре без "разводок"  на участке.
+				</span>
+			</div>
+	</div>
+</section><div class="wrapper">
+	<section>
+<div class='bread-h1'>
+	</div>
+    <div class='content'><h2 class='with-bg' style='margin-top: 40px'>
+    Комплектации и цены</h2>
+<ul class='main-zabors main-page' style="margin-top:35px !important;">
+<li class="main-zabors-item-0">
+	<div class='img-handler'>
+        <img src='/netcat_files/Resize/450350column1.jpg' alt='Забор из профнастила с кирпичными столбами' />
+	</div>
+	<div class='text-handler'>
+    <h2>Забор из профнастила с кирпичными столбами</h2>
+		<p></p>
+		<p>Высота: 1,5 / 1,8 / 2,0 / 2,2 / 2,5 / 3 м<br>
+Профиль: С8 / С20 / НС35<br>
+Покрытие:  полимерное одно- / двухстороннее<br>
+Цвет: 3 основных / 25 дополнительных<br>
+Столб:  380 х 380 мм ( в 1,5 кирпича )<br>
+Кирпич: лицевой / клинкерный / рядовой<br>
+Цвет : Солома, красный / Прочие - по каталогу<br><br></p>
+<div class="images">
+<a href='/netcat_files/multifile/353/31/IMG_20130802_WA0005.jpg' data-fancybox="gallery"><img src='/netcat_files/Resize/6565IMG_20130802_WA0005.jpg' alt='' /></a><a href='/netcat_files/multifile/353/31/IMG_c9d9148754de22a2bafd6381e5ceb763_V.jpg' data-fancybox="gallery"><img src='/netcat_files/Resize/6565IMG_c9d9148754de22a2bafd6381e5ceb763_V.jpg' alt='' /></a><a href='/netcat_files/multifile/353/31/IMG_f19e4ba9888eded16f82d6fcbe1f58bb_V.jpg' data-fancybox="gallery"><img src='/netcat_files/Resize/6565IMG_f19e4ba9888eded16f82d6fcbe1f58bb_V.jpg' alt='' /></a><a href='/netcat_files/multifile/353/31/IMG_f036158976b77d8e00a89a53bcbaba8e_V.jpg' data-fancybox="gallery"><img src='/netcat_files/Resize/6565IMG_f036158976b77d8e00a89a53bcbaba8e_V.jpg' alt='' /></a><a href='/netcat_files/multifile/353/31/IMG_37e27506efc74c1afd291d530f4bf8be_V.jpg' data-fancybox="gallery"><img src='/netcat_files/Resize/6565IMG_37e27506efc74c1afd291d530f4bf8be_V.jpg' alt='' /></a><a href='/netcat_files/multifile/353/31/image_0_02_05_ec3fc69f7c2504cd940601a8fbf084e74c80865bbfcbcf1fbd0920e09599b632_V.jpg' data-fancybox="gallery"><img src='/netcat_files/Resize/6565image_0_02_05_ec3fc69f7c2504cd940601a8fbf084e74c80865bbfcbcf1fbd0920e09599b632_V.jpg' alt='' /></a></div>
+		<!--?=($f_Price ? "<a class='likeh4 call-price' href='#calltouch'>Цена с установкой: от ".$f_Price." руб/п.м.</a>" : NULL) ;?-->
+	</div>
+</li>
+
+<li class="main-zabors-item-1">
+	<div class='img-handler'>
+        <img src='/netcat_files/Resize/450350price_col_1_0.jpg' alt='Забор из евроштакетника с кирпичными столбами' />
+	</div>
+	<div class='text-handler'>
+    <h2>Забор из евроштакетника с кирпичными столбами</h2>
+		<p></p>
+		<p>Высота: 1,5 / 1,8 / 2,0 / 2,2 / 2,5 / 3 м<br>
+Штакетник: П-профиль, 112 мм<br>
+Зазор:  от 2 до 10 см / шахматка<br>
+Покрытие:  полимерное одно- / двухстороннее<br>
+Цвет: 3 основных / 25 дополнительных<br>
+Столб:  380 х 380 мм ( в 1,5 кирпича )<br>
+Кирпич: лицевой / клинкерный / рядовой<br>
+Цвет : Солома, красный / Прочие - по каталогу<br><br></p>
+<div class="images">
+<a href='/netcat_files/multifile/353/30/IMG_cb1d40100866f45e428a8a479ed1cb46_V.jpg' data-fancybox="gallery"><img src='/netcat_files/Resize/6565IMG_cb1d40100866f45e428a8a479ed1cb46_V.jpg' alt='' /></a><a href='/netcat_files/multifile/353/30/Zabor_iz_shtaketnika_41_768x576.jpg' data-fancybox="gallery"><img src='/netcat_files/Resize/6565Zabor_iz_shtaketnika_41_768x576.jpg' alt='' /></a><a href='/netcat_files/multifile/353/30/esche_foto.JPG' data-fancybox="gallery"><img src='/netcat_files/Resize/6565esche_foto.JPG' alt='' /></a><a href='/netcat_files/multifile/353/30/IMG_20160714_150224.jpg' data-fancybox="gallery"><img src='/netcat_files/Resize/6565IMG_20160714_150224.jpg' alt='' /></a><a href='/netcat_files/multifile/353/30/IMG_5782.jpg' data-fancybox="gallery"><img src='/netcat_files/Resize/6565IMG_5782.jpg' alt='' /></a><a href='/netcat_files/multifile/353/30/DSCN4854_500x375.jpg' data-fancybox="gallery"><img src='/netcat_files/Resize/6565DSCN4854_500x375.jpg' alt='' /></a></div>
+		<!--?=($f_Price ? "<a class='likeh4 call-price' href='#calltouch'>Цена с установкой: от ".$f_Price." руб/п.м.</a>" : NULL) ;?-->
+	</div>
+</li>
+</ul>
+</div>
+</section>
+</div><section class="calculator">
+    <div class="wrap clearfix">
+    <h3 class="center">Рассчитайте примерную стоимость забора прямо сейчас!</h3>
+    <div class="calc-switch">
+        <div class="active" data-url="/calculator1/profnastil-calc.html">Профнастил</div>
+        <div data-url="/calculator1/shtaket-calc.html">Штакетник</div>
+</div>
+    <div class="calculator-wrap"></div>
+</div>
+</section>
+<section class="simple-gifts gifts-section">
+	<div class="wrap">
+    	<h3>
+	    	<span>Скидки и подарки к Вашему заказу</span>
+        </h3>
+        <div class="sg-holder">
+
+		<div class="sg-item gift-delivery">
+			<div class="gift-img"><img src="/zaboroff/images/calc/delivery-blue.png" /></div>
+			<div class="gift-text">
+				<div class="gift-title">Скидка на доставку 50%</div>
+				Ваша цена: <span class="delivery-price through-text"></span><br /><span class="delivery-price-discount"></span> руб.
+			</div>
+		</div>
+		<div class="sg-item gift-stuff">
+			<div class="gift-img"><img src="/zaboroff/images/calc/stuff-blue.png" /></div>
+			<div class="gift-text">
+				<div class="gift-title">Врезной замок и декоративные шары</div>
+			</div>
+		</div>
+		<div class="sg-item gift-number">
+			<div class="gift-img"><img src="/zaboroff/images/calc/number-blue.png" /></div>
+			<div class="gift-text">
+				<div class="gift-title">Табличка с номером участка</div>
+			</div>
+		</div>
+		<div class="sg-item gift-hangar">
+			<div class="gift-img"><img src="/zaboroff/images/calc/hangar-blue.png" /></div>
+			<div class="gift-text">
+				<div class="gift-title">Скидка на домик для хозинвентаря</div>
+				Ваша цена: <span class="hangar-price through-text">27 000</span><br /><span class="hangar-price-discount"></span> руб.
+			</div>
+		</div>
+		<div class="sg-item gift-bench">
+			<div class="gift-img"><img src="/zaboroff/images/calc/bench-blue.png" /></div>
+			<div class="gift-text">
+				<div class="gift-title">Лавочка садовая</div>
+			</div>
+		</div>
+        </div>
+        <span class="call-roi green-button">Получить точный расчет</span>
+    </div>
+</section>
+
+<section class="fense-compare">
+	<div class="wrap">
+	<h3>Что уже входит в стоимость?</h3>
+		<div class="text-title">
+		ВНИМАНИЕ! Вы нашли дешевую цену? Вам нравится чемодан без ручки или машина без колес? Тогда узнайте, все ли включено в комплектацию?
+		Скорее всего, вам предлагают "голый", неукомплектованный  забор!<br />
+		Просто сравните "Одетый" и "Голый" забор, и сделайте правильный выбор:
+		</div>
+	</div>
+	<div class="wrap">
+		<div class="row">
+			<div class="cell no-bg"></div>
+			<div class="cell green"><div>Базовая комплектация забора от "Заборофф-Икеа"</div><img src="/zaboroff/images/closes-yes.png" alt="" /></div>
+			<div class="cell red"><div>Голый и дешевый забор у конкурентов</div><img src="/zaboroff/images/closes-no.gif" alt="" /></div>
+		</div>
+		<div class="row">
+			<div class="cell">Покраска</div>
+			<div class="cell we">Столбы, лаги, рамка ворот и калиток - ГФ-021</div>
+			<div class="cell they">Голый металл без покраски</div>
+		</div>
+		<div class="row">
+			<div class="cell">Рамка ворот и калитки</div>
+			<div class="cell we">Усиленная двойная</div>
+			<div class="cell they">Одинарная, эконом-класс</div>
+		</div>
+		<div class="row">
+			<div class="cell">Фурнитура ворот и калиток</div>
+			<div class="cell we">Калитка: Щеколда, ручка;<br />Ворота: Запор «Гусь» на ворота ивертикальные стопора</div>
+			<div class="cell they">Без фурнитуры</div>
+		</div>
+		<div class="row">
+			<div class="cell">Верхняя стяжка</div>
+			<div class="cell we">Съемная на воротах, Несъемная на калитке</div>
+			<div class="cell they">Без стяжек</div>
+		</div>
+		<div class="row">
+			<div class="cell">Укрепление столбов</div>
+			<div class="cell we">Распорки "Ёж" на столбах ворот и калиток</div>
+			<div class="cell they">Нет</div>
+		</div>
+		<div class="row">
+			<div class="cell">Декоративные элементы</div>
+			<div class="cell we">Шары на столбы ворот и калиток</div>
+			<div class="cell they">Нет</div>
+		</div>
+		<div class="row">
+			<div class="cell">Саморезы</div>
+			<div class="cell we">Кровельные с резиновой шайбой в цвет профлиста</div>
+			<div class="cell they">Оцинкованный саморез "Клоп"</div>
+		</div>
+		<div class="row">
+			<div class="cell no-bg"></div>
+			<div class="cell green">ПОЗВОЛЬТЕ СЕБЕ УДОВОЛЬСТВИЕ ОТ НАШИХ ЦЕН И РАБОТЫ, ОСТАЛЬНОЕ - НАША ЗАБОТА!</div>
+			<div class="cell red">ЗА ВСЕ ОПЦИИ ВЫ БУДЕТЕ ДОПЛАЧИВАТЬ ОТДЕЛЬНО, И ПО ФАКТУ ОН ВЫЙДЕТ ДОРОЖЕ!</div>
+		</div>
+	</div>
+</section>
+
+<div class="wrapper" style="padding:0;">
+<section>
+<div class="content"></div>
+</section>
+</div><section class="fence-projects">
+    <div class="fence-overlay"></div>
+    <div class="wrapper">
+<div class="content-block tabs-handler">
+	<h2 class="center">Проекты заборов c кирпичными столбами</h2>
+		 	<ul class="tabs-button-price">
+		<li data-tab="#tab27">Профнастил</li>
+		<li data-tab="#tab45">Евроштакетник</li>
+	</ul> 	<div id="tab254" class="tab-price">	
+		<div class="price-items-handler">	</div>
+</div>
+    <div id='tab27' class='tab-price'><div class='price-items-handler'><div class='price-item'><a data-fancybox="gallery" href='/netcat_files/27/59/prof_column_2.jpg' title='Высота 2.0 м 
+Профлист С8'><img src='/netcat_files/27/59/prof_column_2_thumb1.jpg' alt='' /><span class='lupa'></span></a><div class='likeh4 name'>Высота 2.0 м<br />
+Профлист С8</div>Покрытие: ПРИНТЕК<br />
+Цвет: Log Светлое дерево<br />
+Кол-во лаг: 2<br />
+Саморезы в цвет: ДА<br />
+Столб кирпичный: 380х380х2000<br />
+Фундамент: 380х400 мм<br />
+<br /><a class='likeh4 call-price' href='#roistat-lead-hunter' title='Рассчитать стоимость'>Рассчитать стоимость</a></div><div class='price-item'><a data-fancybox="gallery" href='/netcat_files/27/59/prof_column_1.jpg' title='Высота 2.0 м 
+Профлист С20'><img src='/netcat_files/27/59/prof_column_1_thumb1.jpg' alt='' /><span class='lupa'></span></a><div class='likeh4 name'>Высота 2.0 м<br />
+Профлист С20</div>Покрытие: ПОЛИЭСТЕР<br />		
+Цвет: RAL 7024<br />	
+Кол-во лаг: 2<br />
+Саморезы в цвет: ДА<br />	
+Фундамент: 380х400 мм<br />
+Столб кирпичный: 380х380х2000<br />	
+Облицовка: ПЛИТКА КЛИНКЕРНАЯ<br /><a class='likeh4 call-price' href='#roistat-lead-hunter' title='Рассчитать стоимость'>Рассчитать стоимость</a></div><div class='price-item'><a data-fancybox="gallery" href='/netcat_files/27/59/prof_column_3.jpg' title='Высота 2.0 м 
+Профлист С8'><img src='/netcat_files/27/59/prof_column_3_thumb1.jpg' alt='' /><span class='lupa'></span></a><div class='likeh4 name'>Высота 2.0 м<br />
+Профлист С8</div>Покрытие: ПОЛИЭСТЕР<br />
+Цвет: RAL 3005<br />
+Кол-во лаг: 2<br />
+Саморезы в цвет: ДА<br />
+Фундамент: 380х400 мм<br />
+Цоколь кирпичный: 3 ряда<br />
+Столб кирпичный: 380х380х2000<br /><a class='likeh4 call-price' href='#roistat-lead-hunter' title='Рассчитать стоимость'>Рассчитать стоимость</a></div></div></div><div id='tab45' class='tab-price'><div class='price-items-handler'><div class='price-item'><a data-fancybox="gallery" href='/netcat_files/45/138/price_col_1_0.jpg' title='Unix. Высота 2.0 м'><img src='/netcat_files/45/138/price_col_1_0_thumb1.jpg' alt='' /><span class='lupa'></span></a><div class='likeh4 name'>Unix. Высота 2.0 м</div>Покрытие: PRINTECH под дерево<br />
+			Зазор: 5 см<br />
+			Саморезы в цвет: ДА<br />
+			Покраска каркаса в тон: ДА<a class='likeh4 call-price' href='#roistat-lead-hunter' title='Рассчитать стоимость'>Рассчитать стоимость</a></div><div class='price-item'><a data-fancybox="gallery" href='/netcat_files/45/138/price_col_2_0.jpg' title='TS-118. Высота 1.8 м'><img src='/netcat_files/45/138/price_col_2_0_thumb1.jpg' alt='' /><span class='lupa'></span></a><div class='likeh4 name'>TS-118. Высота 1.8 м</div>Покрытие: двусторонний полимер<br />
+			Зазор: 5 см<br />
+			Саморезы в цвет: ДА<br />
+			Покраска каркаса в тон: ДА<a class='likeh4 call-price' href='#roistat-lead-hunter' title='Рассчитать стоимость'>Рассчитать стоимость</a></div><div class='price-item'><a data-fancybox="gallery" href='/netcat_files/45/138/price_col_3_0.jpg' title='Z-110. Высота 1.5 м'><img src='/netcat_files/45/138/price_col_3_0_thumb1.jpg' alt='' /><span class='lupa'></span></a><div class='likeh4 name'>Z-110. Высота 1.5 м</div>Покрытие: односторонний полимер<br />
+			Зазор: 5 см<br />
+			Саморезы в цвет: ДА<br />
+			Покраска каркаса в тон: ДА<a class='likeh4 call-price' href='#roistat-lead-hunter' title='Рассчитать стоимость'>Рассчитать стоимость</a></div><div class='price-item'><a data-fancybox="gallery" href='/netcat_files/45/138/price_col_4_0.jpg' title='Unix. Высота 2.0 м'><img src='/netcat_files/45/138/price_col_4_0_thumb1.jpg' alt='' /><span class='lupa'></span></a><div class='likeh4 name'>Unix. Высота 2.0 м</div>Покрытие: PRINTECH под дерево<br />
+			Зазор: 5 см<br />
+			Саморезы в цвет: ДА<br />
+			Покраска каркаса в тон: ДА<a class='likeh4 call-price' href='#roistat-lead-hunter' title='Рассчитать стоимость'>Рассчитать стоимость</a></div><div class='price-item'><a data-fancybox="gallery" href='/netcat_files/45/138/price_col_5_0.jpg' title='TS-118. Высота 1.8 м'><img src='/netcat_files/45/138/price_col_5_0_thumb1.jpg' alt='' /><span class='lupa'></span></a><div class='likeh4 name'>TS-118. Высота 1.8 м</div>Покрытие: двусторонний полимер<br />
+			Зазор: 5 см<br />
+			Саморезы в цвет: ДА<br />
+			Покраска каркаса в тон: ДА<a class='likeh4 call-price' href='#roistat-lead-hunter' title='Рассчитать стоимость'>Рассчитать стоимость</a></div><div class='price-item'><a data-fancybox="gallery" href='/netcat_files/45/138/price_col_6_0.jpg' title='Z-110. Высота 1.5 м'><img src='/netcat_files/45/138/price_col_6_0_thumb1.jpg' alt='' /><span class='lupa'></span></a><div class='likeh4 name'>Z-110. Высота 1.5 м</div>Покрытие: односторонний полимер<br />
+			Зазор: 5 см<br />
+			Саморезы в цвет: ДА<br />
+			Покраска каркаса в тон: ДА<a class='likeh4 call-price' href='#roistat-lead-hunter' title='Рассчитать стоимость'>Рассчитать стоимость</a></div></div></div></div>
+</div>
+</section>
+<div class="wrapper">
+<section>
+<div class="content">
+<div class="content-block tabs-tandler">
+<h2 class="center">Материалы и комплектующие для строительства заборов с кирпичными столбами</h2>
+	<ul class="tabs-button">
+		<li data-tab="#tab1">Лицевой кирпич</li>
+		<li data-tab="#tab2">Клинкерный кирпич</li>
+		<li data-tab="#tab3">Цветовая палитра</li>
+		<li data-tab="#tab4">Декор столбов</li>
+		<li data-tab="#tab5">Колпаки</li>
+	</ul>
+	
+<div id="tab1" class="tab">
+	<img src="/zaboroff/images/col-fences-color-1.jpg" alt="Цветовая гамма лицевого кирпича" />
+	<br /><br />
+</div>
+<div id="tab2" class="tab">
+	<img src="/zaboroff/images/col-fences-color-2.jpg" alt="Цветовая гамма клинкерного кирпича" />
+	<br /><br />
+</div>
+
+<div id="tab3" class="tab">
+	<img src="/zaboroff/images/profnastil/ral-printech.jpg" alt="Цвета профнастила" />
+</div>
+
+<div id="tab4" class="tab">
+	<a data-fancybox="gallery" href="/zaboroff/images/column/decor-stone-1.jpg"><img src="/zaboroff/images/column/decor-stone-1s.jpg" alt="Декоративный камень" /></a>
+	<a data-fancybox="gallery" href="/zaboroff/images/column/decor-stone-2.jpg"><img src="/zaboroff/images/column/decor-stone-2s.jpg" alt="Декоративный камень" /></a>
+	<a data-fancybox="gallery" href="/zaboroff/images/column/decor-stone-3.jpg"><img src="/zaboroff/images/column/decor-stone-3s.jpg" alt="Декоративный камень" /></a>
+	<br /><br />
+</div>
+
+<div id="tab5" class="tab">
+	<img src="/zaboroff/images/column/colpak-1.jpg" alt="Декоративный колпак" />
+	<img src="/zaboroff/images/column/colpak-2.jpg" alt="Декоративный колпак" />
+	<img src="/zaboroff/images/column/colpak-3.jpg" alt="Декоративный колпак" />
+<br /><br />
+</div>
+	
+</div>
+<div class="content-block">
+<div class="sc-handler">
+	<div class="sc-item">
+		<h2 class="sc-title">Схема монтажа и армирования кирпичного столба<span class="sc-icon"></span></h2>
+		<div class="sc-text">
+			<div class="center">
+			<img src="/netcat_files/254/702/schema_2.jpg" alt="Схема монтажа и армирования кирпичного столба" />
+		</div>
+					</div>
+	</div>
+
+	<div class="sc-item">
+		<h2 class="sc-title">Схема забора из профнастила с кирпичными столбами<span class="sc-icon"></span></h2>
+		<div class="sc-text">
+			<div class="center">
+			<img src="/netcat_files/254/702/schema_1_0.jpg" alt="Схема забора из профнастила с кирпичными столбами" />
+		</div>
+					</div>
+	</div>
+
+	<div class="sc-item">
+		<h2 class="sc-title">Схема забора из металлического штакетника с кирпичными столбами<span class="sc-icon"></span></h2>
+		<div class="sc-text">
+			<div class="center">
+			<img src="/netcat_files/254/702/schema_1.jpg" alt="" />
+		</div>
+					</div>
+	</div>
+</div>
+</div>
+    </div>
+	</section>
+</div> 
+    <section class="term">
+	<div class="wrap center">
+		<h2>
+        Гарантия на забор 2 года!        </h2>
+		<p>
+        При заказе строительства и установки забора с кирпичными столбами  в нашей компании, Вы получите гарантийный сертификат, который подтвердит не только качество произведенных работ, но и нашу юридическую ответственность. Мы обеспечим Вам гарантийное обслуживание установленного ограждения на протяжении 2-х лет.</p>
+		<a data-fancybox="gallery" href="/zaboroff/content/garantee-big.jpg"><img src="/zaboroff/content/garantee-small.jpg"></a>
+		<span class="term-button modal-call call-roi" data-title="Узнать стоимость">
+        Узнать стоимость забора
+        </span>
+	</div>
+</section>
+    <section class="call-calc-bottom">
+	<div class="wrapper">
+	<h2 class="center">Рассчитайте стоимость ограждения на сайте</h2>
+	<h3 class="center">или свяжитесь с нашим менеджером</h3>
+		<div class="row">
+			<div class="calc-block">
+				<div class="likeh4">Калькулятор забора</div>
+				<a href="/calculator" class="button">Рассчитать стоимость</a>
+			</div>
+			<div class="form-block">
+				<div class="likeh4">Позвоните по номеру:</div>
+				<div class="phone">+7 (812) 123-45-67</div>
+				<div class="form-block-text">или закажите бесплатный обратный звонок, оставив свой номер телефона. мы перезвоним в течение 1-2 минут!</div>
+				<div class="button call-roi">Заказать звонок</div>
+			</div>
+		</div>
+	</div>
+</div>
+</section>
+<footer>
+    <div class="mobile-footer-menu">
+	    <ul class='left-menu mobile-menu-bottom'>
+<li><a class='parent' href=/profnastil>Заборы из профнастила</a><ul class='leftMenuSub mobileMenuSub'>
+<li><a href=/profnastil_base>На ленточном фундаменте</a></li>
+<li><a href=/profnastil_column>С кирпичными столбами</a></li>
+<li><a href=/profnastil_piles>На винтовых сваях</a></li>
+<li><a href=/wood>Под дерево</a></li>
+<li><a href=/profnastil_stone>Под камень</a></li>
+<li><a href=/brick>Под кирпич</a></li>
+<li><a href=/profnastil_sliding>С откатными воротами</a></li>
+</ul></li>
+<li><a class='parent' href=/shtaketnik>Забор из евроштакетника</a><ul class='leftMenuSub mobileMenuSub'>
+<li><a href=/shtaketnik_piles>На винтовых сваях</a></li>
+<li><a href=/shtaketnik_base>На ленточном фундаменте</a></li>
+<li><a href=/shtaketnik_column>С кирпичными столбами</a></li>
+</ul></li>
+<li><a class='parent' href=/section>Секционные заборы 3D</a><ul class='leftMenuSub mobileMenuSub'>
+<li><a href=/kaskad>Каскад</a></li>
+<li><a href=/fensys>Fensys</a></li>
+</ul></li>
+<li><a href=/zabor>Заборы из сварных секций</a></li>
+<li><a class='parent' href=/rabitsa>Заборы из сетки-рабицы</a><ul class='leftMenuSub mobileMenuSub'>
+<li><a href=/tension>Из натяжной сетки</a></li>
+<li><a href=/sectional>Секционные заборы из рабицы</a></li>
+</ul></li>
+<li><a href="/col-fence">Заборы с кирпичными столбами</a></li>
+<li><a href="/base-fence">Заборы на ленточном фундаменте</a></li>
+<li><a href=/gazon>Газонные ограждения</a></li>
+<li><a class='parent' href="/gates">Установка ворот и калиток</a><ul class='leftMenuSub mobileMenuSub'>
+<li><a href="/otkatnye">Откатные ворота</a></li>
+<li><a href="/raspashnye">Распашные ворота</a></li>
+</ul></li>
+<li><a href=/cherez-kanavu>Обустройство въезда через канаву</a></li>
+<li><a href=/parking>Парковочные площадки</a></li>
+<li><a href=/naves>Навесы для автомобиля</a></li>
+
+<li><a href=/security>Колючая проволока</a></li>
+</ul>    </div>
+
+    <div class="city-links-holder">
+        <div class="city-links">
+	        <div class="city-title">Мы занимаемся установкой заборов для дачи в следующих районах:</div>
+                <ul>
+<li><a href='/spb/boksitogorsk'>Бокситогорск</a></li>
+<li><a href='/spb/volosovo'>Волосово</a></li>
+<li><a href='/spb/volhov'>Волхов</a></li>
+<li><a href='/spb/vsevolozhsk'>Всеволожск</a></li>
+</ul>
+<ul>
+<li><a href='/spb/vyborg'>Выборг</a></li>
+<li><a href='/spb/vysock'>Высоцк</a></li>
+<li><a href='/spb/gatchina'>Гатчина</a></li>
+<li><a href='/spb/ivangorod'>Ивангород</a></li>
+</ul>
+<ul>
+<li><a href='/spb/kamennogorsk'>Каменногорск</a></li>
+<li><a href='/spb/kingisepp'>Кингисепп</a></li>
+<li><a href='/spb/kirishy'>Кириши</a></li>
+<li><a href='/spb/kirovsk'>Кировск</a></li>
+</ul>
+<ul>
+<li><a href='/spb/kommunar'>Коммунар</a></li>
+<li><a href='/spb/lodeinoe-pole'>Лодейное Поле</a></li>
+<li><a href='/spb/luga'>Луга</a></li>
+<li><a href='/spb/luban'>Любань</a></li>
+</ul>
+<ul>
+<li><a href='/spb/nikolskoe'>Никольское</a></li>
+<li><a href='/spb/novayaya-ladoga'>Новая Ладога</a></li>
+<li><a href='/spb/otradnoe'>Отрадное</a></li>
+<li><a href='/spb/pikalevo'>Пикалёво</a></li>
+</ul>
+<ul>
+<li><a href='/spb/podporozhe'>Подпорожье</a></li>
+<li><a href='/spb/primorsk'>Приморск</a></li>
+<li><a href='/spb/priozersk'>Приозерск</a></li>
+<li><a href='/spb/svetogorsk'>Светогорск</a></li>
+</ul>
+<ul>
+<li><a href='/spb/sertolovo'>Сертолово</a></li>
+<li><a href='/spb/slancy'>Сланцы</a></li>
+<li><a href='/spb/sosnovyj-bor'>Сосновый Бор</a></li>
+<li><a href='/spb/syasstroj'>Сясьстрой</a></li>
+</ul>
+<ul>
+<li><a href='/spb/tihvin'>Тихвин</a></li>
+<li><a href='/spb/tosno'>Тосно</a></li>
+<li><a href='/spb/shlisselburg'>Шлиссельбург</a></li>
+</ul>        </div>
+    </div>
+
+    <h2 class='center map-title'>Наш офис</h2>
+ <noindex> 
+ <div id="bigMap">
+<div style="position:relative;overflow:hidden;"><script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A486d5a8364af6276ea602e7f0e78f33df78874bf1f09066dc1a9a57e6e5b732b&amp;width=100%25&amp;height=560&amp;lang=ru_RU&amp;scroll=true"></script></div>
+</div>
+ </noindex> 
+<div class='footer-menu-handler'>
+ <noindex> 	<div class='footer-menu'>
+		<ul>
+			<li><a href='/section'>Заборы 3D</a></li>
+			<li><a href='/zabor'>Кованые заборы</a></li>
+			<li><a href='/gates'>Ворота калитки</a></li>
+			<li><a href='/groundwork'>Ленточный фундамент</a></li>
+		</ul>
+		<ul style='margin-left:10px;'>
+
+			<li><a href='/col-fence'>Кирпичные столбы</a></li>
+			<li><a href='/naves'>Навесы для автомобиля</a></li>
+			<li><a href='/policarbonat'>Забор из поликарбоната</a></li>
+			<li><a href='/teplitsy'>Теплицы из поликарбоната</a></li>
+		</ul>
+		<ul>
+			<li><a href='/cherez-kanavu'>Обустройство въезда</a></li>
+			<li><a href='/gazon'>Газонные ограждения</a></li>
+			<li><a href='/parking'>Парковочные площадки</a></li>
+			<li><a href='/security'>Системы безопасности заборов</a></li>
+		</ul>
+		<ul style='padding-left:10px;'>
+			<li><a href='/wood'>Деревянные заборы</a></li>
+			<li><a href='/profnastil'>Заборы из профнастила</a></li>
+			<li><a href='/rabitsa'>Заборы из сетки-рабицы</a></li>
+			<li><a href='/shtaketnik'>Заборы из евроштакетника</a></li>
+		</ul>
+		<ul style="padding-left:0px;">
+			<li><a href="/articles">Статьи</a></li>
+			<li><a href="/videoreview">Видеоотзывы</a></li>
+			<li><a href="/gallery">Галерея</a></li>
+		</ul>
+
+<ul style="padding-left:0px;">
+			<li><a href="/contact">Контакты</a></li>
+			<li><a href="/about">О компании</a></li>
+			<li><a href="/oplata">Оплата</a></li>
+		</ul>
+
+		</div>
+ </noindex> </div><div class="footer-info">
+	<div class="fi-row">
+		<div class="col-md-4">
+			<div class='logo-footer'>
+						<a href="/"><img src='/zaboroff-spb/img/logo-new-white.png' alt='Заборофф-Икеа' /></a>
+					</div>
+			<div class='adress'>
+				196240, г. Санкт-Петербург,
+4-й Предпортовый проезд, 3А<br />
+Склад и производство: с 9-00 до 20-00<br />
+Приём заявок: с 8-00 до 22-00
+			</div>
+            <div class="footer-phone">
+                <div class="phone-footer-holder">
+                    <i class='fa fa-phone'></i>
+                    <span class='phone roistat-spb'>+7 (812) 123-45-67</span>
+                </div>
+            </div>
+		</div>
+		<div class="col-md-4">
+			<div class="photo-day-footer">
+
+<a data-fancybox="gallery" href="/netcat_files/152/409/28072017_1.jpg"><img src="/netcat_files/Resize/908028072017_1_thumb1.jpeg" alt="Забор с кирпичными столбами" /></a>
+
+
+<a data-fancybox="gallery" href="/netcat_files/152/409/28072017_2.jpg"><img src="/netcat_files/Resize/908028072017_2_thumb1.jpeg" alt="Забор из профнастила под камень" /></a>
+
+
+<a data-fancybox="gallery" href="/netcat_files/152/409/28072017_3.jpg"><img src="/netcat_files/Resize/908028072017_3_thumb1.jpeg" alt="Ворота" /></a>
+
+
+<a data-fancybox="gallery" href="/netcat_files/152/409/28072017_4.jpg"><img src="/netcat_files/Resize/908028072017_4_thumb1.jpeg" alt="Забор из евроштакетника" /></a>
+
+
+<a data-fancybox="gallery" href="/netcat_files/152/409/28072017_5.jpg"><img src="/netcat_files/Resize/908028072017_5_thumb1.jpeg" alt="Въезд на участок" /></a>
+
+
+<a data-fancybox="gallery" href="/netcat_files/152/409/28072017_6.jpg"><img src="/netcat_files/Resize/908028072017_6_thumb1.jpeg" alt="Забор с системой безопасности" /></a>
+
+
+<a data-fancybox="gallery" href="/netcat_files/152/409/28072017_7.jpg"><img src="/netcat_files/Resize/908028072017_7_thumb1.jpeg" alt="Ворота из профнастила" /></a>
+
+
+<a data-fancybox="gallery" href="/netcat_files/152/409/28072017_8.jpg"><img src="/netcat_files/Resize/908028072017_8_thumb1.jpeg" alt="Кирпичный столб" /></a>
+
+
+<a data-fancybox="gallery" href="/netcat_files/152/409/28072017_9.jpg"><img src="/netcat_files/Resize/908028072017_9_thumb1.jpeg" alt="Въезд на участок" /></a>
+
+</div>		</div>
+		<div class="col-md-4">
+				<div class="last-blogs">
+		<div class="lb-head">
+			<p>Полезные материалы</p>
+		</div>
+		<div class="lb-item">
+			<div class="title"><a href="/articles1/profnastil_36.html">Какой высоты можно делать забор</a></div>
+			<div class="date">
+                16 мая 2019			</div>
+		</div>
+
+
+		<div class="lb-item">
+			<div class="title"><a href="/articles1/profnastil_35.html">Как сделать красивый забор из профнастила</a></div>
+			<div class="date">
+                08 мая 2019			</div>
+		</div>
+
+
+		<div class="lb-item">
+			<div class="title"><a href="/articles1/profnastil_34.html">Цены на забор. Как и на чем можно сэкономить?</a></div>
+			<div class="date">
+                09 апреля 2019			</div>
+		</div>
+
+	</div>		</div>
+	</div>
+	<div class="fi-row no-title">
+		<div class="col-md-4"><div class="call-roi button">Заказать звонок</div></div>
+		<div class="col-md-4">
+			<div class="social-groups">
+				<a class="fb-group" rel="nofollow" href="#"></a>
+				<a class="vk-group" rel="nofollow" href="#"></a>
+				<a class="insta" rel="nofollow" href="#"></a>
+			</div>
+        </div>
+		<div class="col-md-4">
+            <div class='sky'>
+				<img class='sky-img' src='/zaboroff/360.png' alt='SKILL CONNECT' />
+                <div class='sky-txt'>
+                    Агентство интернет-маркетинга <a  href="#" rel='nofollow'>SKILL CONNECT</a>
+                </div>
+			</div>
+        </div>
+	</div>
+	<div class="copyright">Компания Заборофф-Икеа &copy; 2007-2020</div>
+</div>    </footer>
+
+
+<style>
+.roistat-lh-form table tr:nth-child(2n+1) {background: #13678A !important;}
+.roistat-lh-popup {color: #fff !important;}
+</style>
+
+<div class="modal-holder">
+    <div class="box-modal" id="actionModal">
+    <div class="box-modal_close arcticmodal-close"></div>
+
+
+<div class="action-modal-sticker"></div>
+        <div class="action-modal-img"><img src="/netcat_files/Resize/360220zabor_action.jpg" alt="Забор выгоднее на 5%!" /></div>
+        <div class="action-modal-content">
+            <div class="am-title">Выгода 5%!</div>
+            <div class="am-text">Получили выгодное предложение? Покажите его нам, и мы сделаем его выгоднее на 5%! 
+<span>Подробности у менеджера!</span></div>
+                    <div class="button action-modal-btn call-roi">Узнать подробнее</div>
+                </div>
+
+</div></div>
+
+<script>
+$(document).ready(function(){
+	$('.tabs-button li:first').trigger('click');
+})
+</script>
+<link href='/zaboroff-spb/css/inner-slider.css' rel='stylesheet' type='text/css'>
+<link href='/zaboroff-spb/js/modal/arcticmodal.min.css' rel='stylesheet' type='text/css'>
+<link href="/zaboroff-spb/css/font-awesome.css" rel="stylesheet" type="text/css">
+<script src='/zaboroff-spb/js/bxslider.js'></script>
+<script src='/zaboroff-spb/images/slider/slides.min.jquery.js'></script>
+<script src='/zaboroff-spb/js/inner-slider.js'></script>
+<link href='/zaboroff-spb/js/form-styler/jquery.formstyler.css' rel='stylesheet' type='text/css'>
+<link href='/zaboroff-spb/js/form-styler/jquery.formstyler.theme.css' rel='stylesheet' type='text/css'>
+
+
+<script src='/zaboroff-spb/js/jquery.cookie.min.js'></script>
+<script src='/zaboroff-spb/js/modal/jquery.arcticmodal-0.3.js'></script>
+
+<script src='/zaboroff-spb/js/scrollUp.js'></script>
+<script src='/zaboroff-spb/js/form-styler/jquery.formstyler.min.js'></script>
+
+<script>
+$(function () {
+    $.scrollUp();
+});
+</script>
+<script src='/zaboroff-spb/js/masked.input.js'></script>
+<script src='/zaboroff-spb/js/scripts.js'></script>
+<script src='/zaboroff-spb/js/seohide.js'></script>
+<link href='/zaboroff-spb/js/fancybox/jquery.fancybox.css' rel='stylesheet' type='text/css' media='screen' />
+<link href='/zaboroff-spb/css/mobile.css' rel='stylesheet' type='text/css'>
+<div class="modal" style="display:none;">
+    <a class="click-for-ok" href="#submit-ok"></a>
+    <div id="submit-ok" style="width:300px;height: auto;padding:30px;">
+        <p>Спасибо, Ваша заявка принята.<br>В ближайшее время с Вами свяжется наш менеджер для уточнения деталей.</p>
+    </div>
+</div>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-168832818-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-168832818-1');
+</script>
+</body>
+</html>
